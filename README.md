@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+    #include <stdio.h>
+    
+    int main(void)
+    {
+        printf("hello, world!\n");
+        return 0;
+    }
